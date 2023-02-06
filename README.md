@@ -32,6 +32,7 @@ Note: I am currently working on an interface to load entire color palettes and p
  CRGB colorActive = CRGB( 255, 90, 0);
  ```
 <br>
-use values between 0-255 or for more details use the [fastLED docs](https://fastled.io/docs/3.1/struct_c_r_g_b.html).
-  
 
+Use values between 0-255 or for more details use the [fastLED docs](https://fastled.io/docs/3.1/struct_c_r_g_b.html).
+  
+ 
