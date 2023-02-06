@@ -27,6 +27,9 @@ youtube link coming
 
     DATA PIN = 12
 
-Note: I am currently working on an interface to load entire color palettes and patterns but have not yet finished this code. For now, to change the color of the strip, use the variable CRGB colorActive = CRGB( 255, 90, 0); to either put RGB values between 0-255 or refer to https://fastled.io/docs/3.1/struct_c_r_g_b.html for more details.
+Note: I am currently working on an interface to load entire color palettes and patterns but have not yet finished this code. For now, to change the color of the strip, use the variable:
+ CRGB colorActive = CRGB( 255, 90, 0);
+
+use values between 0-255 or for more details use the [fastLED docs] (https://fastled.io/docs/3.1/struct_c_r_g_b.html).
   
 
