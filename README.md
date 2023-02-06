@@ -1,24 +1,29 @@
-Introduction
+# Introduction
 
 This project embeds a LED strip and photoelectric sensors inside a skateboard ledge, resulting in a dynamic and interactive visual experience for skateboarders. The LED strip is positioned underneath the ledge, illuminating as the skater slides and adding a mesmerizing effect to their tricks. The photoelectric sensors track the position and direction of the skater and, together with a queue data structure, control the lighting output.
 Features
 
-    Utilizes the FastLED library for Arduino, providing a highly customizable codebase for a wide range of visual effects and patterns.
-    Extensive set of functions and features available, including advanced color correction, noise reduction, and support for multiple LED chipsets.
-    Allows for extensive customization and personalization, tailoring the project to the specific needs and preferences of each user.
+By using the FastLED library for Arduino, the code is highly customizable, allowing for a wide range of visual effects and patterns to be created. This library provides an extensive set of functions and features that simplify the process of controlling an LED strip, including advanced color correction, noise reduction, and support for multiple LED chipsets. With the use of the FastLED library, the possibilities for customizing the LED strip are virtually endless, allowing the project to be tailored to the specific needs and preferences of each user.
 
-Materials
+youtube link coming
+ 
+ 
+ 
+ 
+# Materials
 
-    Arduino uno board
-    Programmable LED strip WS2812b
-    x12 Photoelectric sensors
-    5v Power supply
-    Wires
-    Skateboard ledge
+<ul>
+  <li>Arduino uno board</li>
+  <li>Programmable LED strip WS2812b</li>     
+   <li>x12 Photoelectric sensors</li>
+ <li>5v Power supply</li>
+ <li>Wires</li>
+  <li>Skateboard ledge</li>
+</ul> 
+    
 
-Circuit Diagram
-<coming soon>
-Setup
+
+# Setup
 
     DATA PIN = 12
 
